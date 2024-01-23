@@ -1,0 +1,39 @@
+header {
+    background-color: rgb(57, 0, 153);
+    padding: 20px;
+    text-align: center;
+}
+
+body {
+    background-color: #FF5400;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 36px;
+}
+
+header a {
+    text-decoration: none;
+    color: beige;
+    border: 3px solid #FF5400;
+    border-radius: 10px;
+}
+
+body img {
+    width: 30%;
+    height: 30%;
+    text-align: center;
+}
+
+header img {
+    width: 80px;
+    height: 80px;
+}
+
+h1, h2 {
+    color: beige;
+    text-align: center;
+}
+
+p {
+    margin-left: 50px;
+    margin-right: 50px;
+}
